@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/scatterplot-south-africa/static/css/main.f7e81a66.css",
-    "main.js": "/scatterplot-south-africa/static/js/main.c492c1f9.js",
-    "static/js/453.f7660cb0.chunk.js": "/scatterplot-south-africa/static/js/453.f7660cb0.chunk.js",
-    "index.html": "/scatterplot-south-africa/index.html",
-    "main.f7e81a66.css.map": "/scatterplot-south-africa/static/css/main.f7e81a66.css.map",
-    "main.c492c1f9.js.map": "/scatterplot-south-africa/static/js/main.c492c1f9.js.map",
-    "453.f7660cb0.chunk.js.map": "/scatterplot-south-africa/static/js/453.f7660cb0.chunk.js.map"
+    "main.css": "/your-repo-name/static/css/main.ef6339a1.css",
+    "main.js": "/your-repo-name/static/js/main.a95e62ed.js",
+    "static/js/453.92142ad0.chunk.js": "/your-repo-name/static/js/453.92142ad0.chunk.js",
+    "index.html": "/your-repo-name/index.html",
+    "main.ef6339a1.css.map": "/your-repo-name/static/css/main.ef6339a1.css.map",
+    "main.a95e62ed.js.map": "/your-repo-name/static/js/main.a95e62ed.js.map",
+    "453.92142ad0.chunk.js.map": "/your-repo-name/static/js/453.92142ad0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f7e81a66.css",
-    "static/js/main.c492c1f9.js"
+    "static/css/main.ef6339a1.css",
+    "static/js/main.a95e62ed.js"
   ]
 }
